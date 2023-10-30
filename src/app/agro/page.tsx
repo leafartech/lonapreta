@@ -21,7 +21,7 @@ export default function Page() {
                         href="#cadastro"
                     >
                         <div className="flex flex-col gap-3">
-                            <p className="text-zinc-600">Essa lona é um produto feito com tecnologia avançada que oferece maior proteção e uma vedação na cobertura do silo.</p>
+                            <p className="text-zinc-600">Nossas lonas são feitas com tecnologia avançada que oferece maior proteção e uma vedação na cobertura do silo.</p>
                             <p className="text-zinc-600">Desenvolvida em sete camadas, as quais são resistentes a perfurações, possuem dupla face branca e preta para reduzir os impactos da incidência solar.</p>
                         </div>
                     </HeroFlex>
