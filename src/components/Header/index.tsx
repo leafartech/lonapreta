@@ -30,7 +30,7 @@ export default function HeaderFlex({ children, subtitle, imagePath }: HeaderFlex
                     <img src="./images/logo.png" alt="" className="w-36 sm:w-36"/>
                     <h1 className="text-3xl sm:text-5xl font-extrabold text-my2 tracking-wide">{children}</h1>
                     <p className="text-zinc-600">{subtitle}</p>
-                    <div className="_form_31 w-full sm:max-w-sm"></div>
+                    <div className="_form_31 w-full sm:max-w-sm h-[210px]"></div>
                 </div>
                 <div className="sm:flex justify-end mt-2 sm:mt-0 hidden">
                     <img src={`./images/${imagePath}.png`} alt="" className="w-full max-w-[500px]" />
