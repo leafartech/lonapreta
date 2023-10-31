@@ -6,6 +6,7 @@ export default function Page() {
   return (
     <div className="bg-zinc-50">
       <HeaderFlex
+        imagePath="agro"
         subtitle="Cadastre-se abaixo para entrar na lista VIP e receber ofertas das nossas lonas em primeira mão no whatsapp."
       >
         Escolha as <span className="text-my">lonas com mais qualidade do mercado</span>, escolha <br /> Lona Preta
